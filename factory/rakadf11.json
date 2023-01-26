@@ -1,0 +1,9 @@
+{
+	"name": "rakadf11",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c7e96b9f-f1e9-45da-b018-d5cf3beea4f3",
+		"tenantId": "4c77c38e-dfcc-48c6-af67-0bc055248d97"
+	}
+}
